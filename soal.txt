@@ -1,0 +1,34 @@
+1. Berikut ini merupakan tipe data bilangan bulat yaitu...
+    A. Char
+    B. String
+    C. Int
+    D. Float
+    E. Double
+
+2. Struktur percabangan yang memiliki lebih dari 2 (dua) kondisi dapat menggunakan perintah ...
+    A. for atau while
+    B. if
+    C. if - else
+    D. if - elif - else
+    E. elif
+
+3. Fungsi mengembalikan nilai pada bahasa Python dalam penerapan atau pemanggilan fungsi adalah...
+    A. def
+    B. return
+    C. then
+    D. if
+    E. while
+
+4. Dibawah ini yang bukan termasuk struktur data pada python adalah...
+    A. Set
+    B. Global
+    C. List
+    D. Dictionary
+    E. Tuple
+
+5. Tipe data pada Python yang merupakan bilangan pecahan disebut...
+    A. Float
+    B. Integer
+    C. Boolean
+    D. Heksadesimal
+    E. Biner
