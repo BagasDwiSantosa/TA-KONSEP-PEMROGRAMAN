@@ -1,3 +1,6 @@
+# Buat 2 file txt bernama score.txt dan saran.txt dalam satu folder dengan program ini.
+# Copy soal-soal kuis pada file txt soal.txt yang telah diupload di github ini.
+
 print(' '+'_'*75+' ')
 print('|'+' '*75+'|')
 print('|'+'='*10+'-'*8+'>'+' '*9+" PYTHON GAME QUIZ  "+' '*9+'<'+'-'*8+'='*10+'|')
