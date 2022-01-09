@@ -55,7 +55,7 @@ def score():
     print('|'+'='*8+'-'*8+'>'+' '*3+" Data Score Akhir Python Game Kuis "+' '*3+'<'+'-'*8+'='*8+'|')
     print('|'+'_'*75+'|')
     convert = str(nilai)
-    score = open("score.txt","a+")
+    score = open("score.txt","a")
     semua = "  {} Score akhir = {}\n".format(nama,convert)
     score.write(semua)
     score.close()
